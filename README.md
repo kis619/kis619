@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![kmilchev's 42 stats](https://badge42.herokuapp.com/api/stats/kmilchev?cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
+[![kmilchev's 42 stats](https://badge42.herokuapp.com/api/stats/kmilchev?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
 Kristiyana here from lovely **Bulgaria!**
 
